@@ -1,0 +1,5 @@
+﻿  kirkpatrick.cpp
+d:\с++\lab_3\jarvis\kirkpatrick.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+d:\с++\lab_3\jarvis\kirkpatrick.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+  Jarvis.vcxproj -> D:\С++\lab_3\Debug\Jarvis.exe
+  Jarvis.vcxproj -> D:\С++\lab_3\Debug\Jarvis.pdb (Partial PDB)
